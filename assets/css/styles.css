@@ -1,0 +1,25 @@
+
+.about-me {
+  text-align: center;
+}
+.withbg {
+  background-image: url(../images/ayush.jpg);
+  background-position: center;
+  background-size: cover;
+  opacity: 1;
+}
+.withbg :hover{
+  opacity: 0.5;
+}
+body{
+  background-image: url(../images/new_bg.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container card{
+   box-shadow: 0 10px 15px rgb(0, 0, 0);
+  background-color: rgba="#1C52E4";
+}
+
+
